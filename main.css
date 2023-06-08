@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica&family=Poppins:wght@800&display=swap");
+
+body {
+    background-color: black;
+    overflow: hidden;
+    cursor: url(cursor.png), auto;
+}
+
+.navbar {
+    background-color: white;
+    height: 30px;
+    position: relative;
+    bottom: 1748px;
+    cursor: url(cursor.png), auto;
+}
+
+.about_me {
+    position: relative;
+    top: 4px;
+    left: 750px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    border: none;
+    outline: none;
+    cursor: url(cursor.png), auto;
+}
+
+.about_me:hover {
+    color: red;
+}
+
+.button_ui-design {
+    position: relative;
+    top: 4px;
+    left: 850px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    cursor: url(cursor.png), auto;
+}
+
+.button_ui-design:hover {
+    color: red;
+}
+
+.button_project {
+    position: relative;
+    top: 4px;
+    left: 950px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    cursor: url(cursor.png), auto;
+}
+
+.button_project:hover {
+    color: red;
+}
+
+.button_version {
+    position: relative;
+    top: 4px;
+    left: 1050px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    cursor: url(cursor.png), auto;
+}
+
+.button_version:hover {
+    color: red;
+}
+
+.main_text {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 170px;
+    position: relative;
+    bottom: 105px;
+    right: 8px;
+    cursor: url(cursor.png), auto;
+}
+
+.main_text_2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 200px;
+    position: relative;
+    bottom: 339px;
+    right: 8px;
+    cursor: url(cursor.png), auto;
+}
+
+.main_text_3 {
+    background: linear-gradient(to right, #ff7f00, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Poppins", sans-serif;
+    font-size: 170px;
+    position: relative;
+    bottom: 575px;
+    right: 8px;
+    cursor: url(cursor.png), auto;
+}
+
+.main_text_4 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 200px;
+    position: relative;
+    bottom: 812px;
+    right: 8px;
+    cursor: url(cursor.png), auto;
+}
+
+.figma {
+    position: relative;
+    bottom: 1695px;
+    left: 865px;
+    cursor: url(cursor.png), auto;
+}

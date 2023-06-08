@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica&family=Poppins:wght@800&display=swap");
+
+body {
+    background-color: black;
+    overflow: hidden;
+    cursor: url(cursor.png), auto;
+}
+
+.navbar {
+    background-color: white;
+    height: 30px;
+    position: relative;
+    bottom: 1324px;
+    cursor: url(cursor.png), auto;
+}
+
+.home {
+    position: relative;
+    top: 4px;
+    left: 750px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    cursor: url(cursor.png), auto;
+}
+
+.home:hover {
+    color: red;
+}
+
+.button_ui-design {
+    position: relative;
+    top: 4px;
+    left: 850px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    border: none;
+    cursor: url(cursor.png), auto;
+    outline: none;
+}
+
+.button_ui-design:hover {
+    color: red;
+}
+
+.button_project {
+    position: relative;
+    top: 4px;
+    left: 950px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    cursor: url(cursor.png), auto;
+    border: none;
+    outline: none;
+}
+
+.button_project:hover {
+    color: red;
+}
+
+.button_version {
+    position: relative;
+    top: 4px;
+    left: 1050px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    cursor: pointer;
+    cursor: url(cursor.png), auto;
+    border: none;
+    outline: none;
+}
+
+.button_version:hover {
+    color: red;
+}
+
+.text_1 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 100px;
+    position: relative;
+    right: 2px;
+    bottom: 35px;
+    cursor: url(cursor.png), auto;
+}
+
+.text_2 {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 200px;
+    position: RELATIVE;
+    bottom: 258px;
+    right: 8px;
+    cursor: url(cursor.png), auto;
+}
+
+.paragraph {
+    position: relative;
+    bottom: 460px;
+    font-family: "Geologica", sans-serif;
+    background: linear-gradient(to right, #ff7f00, #ff00ff);
+    cursor: url(cursor.png), auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.skill {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    bottom: 450px;
+    cursor: url(cursor.png), auto;
+}
+
+.tv {
+    position: relative;
+    bottom: 1021px;
+    left: 1087px;
+    cursor: url(cursor.png), auto;
+}
+
+.figma {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    bottom: 460px;
+    background: linear-gradient(to right, #00ffea, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: url(cursor.png), auto;
+}
+
+.Graphic_Designer {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    cursor: url(cursor.png), auto;
+    bottom: 733px;
+    left: 500px;
+    background: linear-gradient(to right, #00eeff, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

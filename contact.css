@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geologica&family=Poppins:wght@800&display=swap");
+
+body {
+    background-color: black;
+    overflow: hidden;
+    cursor: url(cursor.png), auto;
+}
+
+.resume {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    text-underline-position: none;
+    cursor: url(cursor.png), auto;
+    font-size: 80px;
+    position: relative;
+    left: 1000px;
+    bottom: 200px;
+    background: linear-gradient(to right, #ff7f00, #ff00ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hireme {
+    position: relative;
+    bottom: 550px;
+    cursor: url(cursor.png), auto;
+    right: 56px;
+}
+
+.linkedin {
+    color: white;
+    position: relative;
+    left: 1001px;
+    top: 310px;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    cursor: url(cursor.png), auto;
+}
+
+.linkedin:hover {
+    color: red;
+}
+
+.twitter {
+    color: white;
+    position: relative;
+    left: 1001px;
+    cursor: url(cursor.png), auto;
+    top: 290px;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+
+.twitter:hover {
+    color: red;
+}
+
+.gmail {
+    color: white;
+    position: relative;
+    cursor: url(cursor.png), auto;
+    left: 1001px;
+    top: 270px;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+
+.gmail:hover {
+    color: red;
+}
+
+.about_me {
+    position: relative;
+    top: 4px;
+    cursor: url(cursor.png), auto;
+    left: 750px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    border: none;
+    outline: none;
+}
+
+.about_me:hover {
+    color: red;
+}
+
+.button_ui-design {
+    position: relative;
+    top: 4px;
+    cursor: url(cursor.png), auto;
+    left: 850px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    border: none;
+    outline: none;
+}
+
+.button_ui-design:hover {
+    color: red;
+}
+
+.button_project {
+    position: relative;
+    top: 4px;
+    cursor: url(cursor.png), auto;
+    left: 950px;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    border: none;
+    outline: none;
+}
+
+.button_project:hover {
+    color: red;
+}
+
+.button_version {
+    position: relative;
+    top: 4px;
+    left: 1050px;
+    cursor: url(cursor.png), auto;
+    background-color: white;
+    font-family: "Geologica", sans-serif;
+    border: none;
+    outline: none;
+}
+
+.button_version:hover {
+    color: red;
+}
+
+.navbar {
+    background-color: white;
+    height: 30px;
+    position: relative;
+    bottom: 498px;
+    cursor: url(cursor.png), auto;
+}
